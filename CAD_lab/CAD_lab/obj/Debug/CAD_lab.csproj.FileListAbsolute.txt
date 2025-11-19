@@ -1,0 +1,15 @@
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\CAD_lab.exe.config
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\CAD_lab.exe
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\CAD_lab.pdb
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.csproj.AssemblyReference.cache
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.Properties.Resources.resources
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.csproj.GenerateResource.cache
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.csproj.CoreCompileInputs.cache
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.exe
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.pdb
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.Form1.resources
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\MathNet.Numerics.dll
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\System.ValueTuple.dll
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\MathNet.Numerics.xml
+D:\Programs\CAD_lab\CAD_lab\bin\Debug\System.ValueTuple.xml
+D:\Programs\CAD_lab\CAD_lab\obj\Debug\CAD_lab.csproj.Up2Date
