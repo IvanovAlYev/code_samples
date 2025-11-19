@@ -1,0 +1,14 @@
+D:\Programs\Exam\Exam\bin\x86\Debug\Exam.exe.config
+D:\Programs\Exam\Exam\bin\x86\Debug\Exam.exe
+D:\Programs\Exam\Exam\bin\x86\Debug\Exam.pdb
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.csproj.AssemblyReference.cache
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Form1.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Form_exam.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Form_m.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Form_res.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Properties.Resources.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.Form_question.resources
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.csproj.GenerateResource.cache
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.exe
+D:\Programs\Exam\Exam\obj\x86\Debug\Exam.pdb
