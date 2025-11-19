@@ -1,0 +1,9 @@
+D:\Programs\Paint\Paint\bin\Release\Paint.exe
+D:\Programs\Paint\Paint\bin\Release\Paint.pdb
+D:\Programs\Paint\Paint\obj\Release\Paint.Form1.resources
+D:\Programs\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+D:\Programs\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.Cache
+D:\Programs\Paint\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+D:\Programs\Paint\Paint\obj\Release\Paint.exe
+D:\Programs\Paint\Paint\obj\Release\Paint.pdb
+D:\Programs\Paint\Paint\obj\Release\Paint.csprojResolveAssemblyReference.cache
